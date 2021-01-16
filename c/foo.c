@@ -1,3 +1,5 @@
+// Compile with `gcc foo.c -std=c99 -lpthread`, or use the makefile
+
 #include <pthread.h>
 #include <stdio.h>
 
