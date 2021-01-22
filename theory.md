@@ -2,14 +2,14 @@ Exercise 1 - Theory questions
 -----------------------------
  
  ### What is the difference between concurrency and parallelism?
- > *Your answer here*
+ > Concurrency is dealing with several tasks at the same time. Parallelism is doing serval tasks at the same time. (https://techdifferences.com/difference-between-concurrency-and-parallelism.html)
  
  ### Why have machines become increasingly multicore in the past decade?
- > *Your answer here*
+ > Increasing of the computing power through higher clock frequencies caused major technical problems. Parallelism is with multicore possible for increasing of the computing power. Allows higher performance with less energy, which is important for mobile devices.
  
  ### Why do we divide software (programs) into concurrently executing parts (like threads or processes)?
  (Or phrased differently: What problems do concurrency help in solving?)
- > *Your answer here*
+ > 
  
  ### Does creating concurrent programs make the programmer's life easier? Harder? Maybe both?
  (Come back to this after you have worked on part 4 of this exercise)
